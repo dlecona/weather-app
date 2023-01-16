@@ -5,4 +5,4 @@ Clone repository using the following statement:
 ### `git clone https://github.com/dlecona/weather-app`
 
 Use the following command after cloning repository into your system.
-### `npm start`
+### `npm install && npm start`
