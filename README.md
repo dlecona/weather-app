@@ -1,5 +1,5 @@
 
-## Weather app using OpenWeatherMap API
+## Weather app using OpenWeatherMap API and React
 
 Clone repository using the following statement:
 ```
